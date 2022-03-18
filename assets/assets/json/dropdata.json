@@ -1,0 +1,20 @@
+{
+    "dropdownvalues": [
+        {
+            "id": "1",
+            "name": "Farmer"
+            
+        },
+        {
+            "id": "2",
+            "name": "Supplier"
+            
+        },
+        {
+            "id": "3",
+            "name": "Distributor"
+            
+        }
+    ]
+
+}
